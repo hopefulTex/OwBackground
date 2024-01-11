@@ -3,5 +3,6 @@
 [ ] make json struct
 [ ] write backgrounds json to config folder
 [ ] (?) put default background as field in json
+[ ] split background and fs code
 [ ] make tui to select default & current
 [ ] make webapp to select & current
