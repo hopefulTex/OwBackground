@@ -2,6 +2,9 @@
 
 A small program to start Overwatch with a selected or random menu screen background
 
+
+The config file is located at `$HOME/.config/OwBackground/config.txt`
+
 ## Usage
 
 Select background from default
