@@ -1,0 +1,37 @@
+package main
+
+const jsonText string = `{
+    "Heroes": "0x0800000000000E77",
+    "Zero Hour": "0x0800000000000EFB",
+    "Sojourn": "0x0800000000000D6C",
+    "Kiriko": "0x0800000000000EF3",
+    "Zeus Junker Queen": "0x0800000000000F4A",
+    "Ramattra": "0x0800000000000F8F",
+    "Shambali Monastery": "0x0800000000000f31",
+    "Winter Wonderland 2022": "0x0800000000000D77",
+    "Lunar New Year 2023": "0x0800000000000DAD",
+    "Kiriko Amaterasu": "0x0800000000001003",
+    "Kiriko Amaterasu Art": "0x0800000000001003",
+    "Antarctic Peninsula": "0x080000000000103D",
+    "Hanzo Cupid": "0x0800000000000B6B",
+    "Doomfist One Punch Man Collab": "0x0800000000000EED",
+    "Lifeweaver": "0x0800000000001060",
+    "Galactic Emperor Sigma": "0x0800000000001032",
+    "Starwatch Art": "0x0800000000001132",
+    "Questwatch Art": "0x0800000000001133",
+    "Summer Games": "0x0800000000000BCE",
+    "Illari": "0x080000000000112B",
+    "Gothenburg Mothership": "0x0800000000001104",
+    "Ana A-7000 Wargod": "0x08000000000010F2",
+    "Hanzo Onryo": "0x080000000000112B",
+    "Hanzo Onryo Art": "0x08000000000010AC",
+    "Lilith Moira": "0x080000000000115C",
+    "Overwatch World Cup": "0x0800000000000817",
+    "D.VA (Lunar Busan)": "0x0800000000000710",
+    "Overwatch League": "0x0800000000000864",
+    "Le Sserafim Collab": "0x0800000000001173",
+    "Mauga": "0x080000000000118a",
+    "Orisa Grand Beast": "0x0800000000001197",
+    "Winter Wonderland 2023": "0x08000000000011b4"
+}
+`
