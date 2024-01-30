@@ -11,11 +11,19 @@ Select background from default
 
 `owBackground.exe`
 
-(*Not Implemented*) Set to given background
+Set to given background
 
-`owBackground.exe Hero`
+`owBackground.exe set backgroundName`
 
 Background names can be found in the `backgrounds.json` file
+
+Set default background
+
+`owBackground.exe default backgroundName`
+
+(*Not Implemented*) List backgrounds
+
+`owBackground.exe list`
 
 ### __Disclaimer__
 
